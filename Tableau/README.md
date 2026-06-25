@@ -16,5 +16,4 @@ Interactive dashboard analyzing employee demographics, attrition, and department
 
 **Tools:** Tableau Public, data modeling with star schema relationships, calculated fields, grouped dimensions
 
-**Files in this folder:**
-- `HR_Tableau.twb` — Tableau workbook file (XML format, requires original dataset to run)
+
