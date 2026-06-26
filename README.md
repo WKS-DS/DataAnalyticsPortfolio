@@ -21,7 +21,7 @@ A complete exploratory data analysis and narrative report examining survival pat
 
 **Tools:** Python, Pandas, Seaborn, Matplotlib, Jupyter
 
-[**View Project →**](https://github.com/WKS-DS/DataAnalyticsPortfolio/blob/main/Python/Titanic_Midterm_WScott_v2.ipynb)
+[**View Project →**](https://github.com/WKS-DS/DataAnalyticsPortfolio/blob/main/Python/Titanic_EDA_WScott.ipynb)
 
 ---
 
